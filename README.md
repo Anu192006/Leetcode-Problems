@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Anu192006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
