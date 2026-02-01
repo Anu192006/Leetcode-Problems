@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anu192006/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
