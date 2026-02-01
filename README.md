@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0338-counting-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
