@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anu192006/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
