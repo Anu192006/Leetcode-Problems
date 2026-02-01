@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 ## String
@@ -41,18 +42,25 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
