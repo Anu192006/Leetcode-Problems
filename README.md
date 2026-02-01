@@ -51,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/Anu192006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -66,4 +67,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anu192006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
