@@ -56,6 +56,7 @@
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -91,8 +92,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anu192006/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anu192006/Leetcode-Problems/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
