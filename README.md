@@ -87,4 +87,12 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Anu192006/Leetcode-Problems/tree/master/0607-sales-person) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anu192006/Leetcode-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anu192006/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
