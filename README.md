@@ -70,6 +70,7 @@
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Anu192006/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0412-fizz-buzz](https://github.com/Anu192006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Anu192006/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Anu192006/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Anu192006/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
