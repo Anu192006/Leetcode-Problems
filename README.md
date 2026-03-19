@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Anu192006/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
