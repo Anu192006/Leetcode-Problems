@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Anu192006/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Anu192006/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -45,6 +46,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Anu192006/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Anu192006/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anu192006/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
