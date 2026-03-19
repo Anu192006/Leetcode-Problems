@@ -109,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
