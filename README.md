@@ -23,6 +23,7 @@
 | [0326-power-of-three](https://github.com/Anu192006/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -39,6 +40,7 @@
 | [0231-power-of-two](https://github.com/Anu192006/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Anu192006/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
