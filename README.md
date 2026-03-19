@@ -86,12 +86,14 @@
 | [0771-jewels-and-stones](https://github.com/Anu192006/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Anu192006/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Matrix
 |  |
