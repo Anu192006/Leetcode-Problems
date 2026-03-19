@@ -59,6 +59,7 @@
 | [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Counting
@@ -74,6 +76,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
