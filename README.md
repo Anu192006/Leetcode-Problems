@@ -19,6 +19,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anu192006/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Anu192006/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -147,6 +148,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anu192006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
