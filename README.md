@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/Anu192006/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Anu192006/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0507-perfect-number) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anu192006/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anu192006/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
