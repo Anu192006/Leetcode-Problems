@@ -31,6 +31,7 @@
 | [0507-perfect-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -47,6 +48,7 @@
 | [0342-power-of-four](https://github.com/Anu192006/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Anu192006/Leetcode-Problems/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
