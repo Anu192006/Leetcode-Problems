@@ -103,6 +103,7 @@
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anu192006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -119,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Anu192006/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0344-reverse-string) |
