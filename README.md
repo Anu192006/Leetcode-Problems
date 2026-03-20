@@ -4,6 +4,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anu192006/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anu192006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
