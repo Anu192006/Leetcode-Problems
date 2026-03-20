@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anu192006/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anu192006/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Anu192006/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anu192006/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Anu192006/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -186,6 +188,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anu192006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
