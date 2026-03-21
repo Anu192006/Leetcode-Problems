@@ -38,6 +38,7 @@
 | [0504-base-7](https://github.com/Anu192006/Leetcode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -132,6 +133,7 @@
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anu192006/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
@@ -146,6 +148,7 @@
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anu192006/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
