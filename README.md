@@ -189,6 +189,7 @@
 | [1667-fix-names-in-a-table](https://github.com/Anu192006/Leetcode-Problems/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Anu192006/Leetcode-Problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Anu192006/Leetcode-Problems/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anu192006/Leetcode-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/Anu192006/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Stack
 |  |
