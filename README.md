@@ -180,6 +180,7 @@
 | [0619-biggest-single-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Anu192006/Leetcode-Problems/tree/master/1084-sales-analysis-iii) |
+| [1251-average-selling-price](https://github.com/Anu192006/Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1890-the-latest-login-in-2020](https://github.com/Anu192006/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Stack
 |  |
