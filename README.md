@@ -40,6 +40,7 @@
 | [0509-fibonacci-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -135,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anu192006/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
