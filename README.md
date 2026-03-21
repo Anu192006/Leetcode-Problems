@@ -34,6 +34,7 @@
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anu192006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/Anu192006/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Anu192006/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
