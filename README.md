@@ -188,6 +188,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Anu192006/Leetcode-Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Anu192006/Leetcode-Problems/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Anu192006/Leetcode-Problems/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Anu192006/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1890-the-latest-login-in-2020](https://github.com/Anu192006/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Stack
 |  |
