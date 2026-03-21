@@ -177,6 +177,7 @@
 | ------- |
 | [0607-sales-person](https://github.com/Anu192006/Leetcode-Problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Anu192006/Leetcode-Problems/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [1890-the-latest-login-in-2020](https://github.com/Anu192006/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Stack
 |  |
