@@ -183,6 +183,7 @@
 | [1251-average-selling-price](https://github.com/Anu192006/Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anu192006/Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Anu192006/Leetcode-Problems/tree/master/1484-group-sold-products-by-the-date) |
+| [1587-bank-account-summary-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/1587-bank-account-summary-ii) |
 | [1890-the-latest-login-in-2020](https://github.com/Anu192006/Leetcode-Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Stack
 |  |
