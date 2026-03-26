@@ -151,6 +151,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anu192006/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Anu192006/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
+| [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -189,6 +190,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
