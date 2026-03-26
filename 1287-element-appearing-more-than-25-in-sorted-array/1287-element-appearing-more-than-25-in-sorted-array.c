@@ -16,5 +16,5 @@ int findSpecialInteger(int* arr, int arrSize) {
             return arr[i];
         }
     }
-    return arr[arrSize/4];
+    return arr[0];
 }
