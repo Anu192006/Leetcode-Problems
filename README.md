@@ -93,6 +93,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Anu192006/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anu192006/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Anu192006/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
