@@ -97,6 +97,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2716-minimize-string-length](https://github.com/Anu192006/Leetcode-Problems/tree/master/2716-minimize-string-length) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
