@@ -148,6 +148,7 @@
 | [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anu192006/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anu192006/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
@@ -296,4 +297,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anu192006/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
