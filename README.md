@@ -45,6 +45,7 @@
 | [0836-rectangle-overlap](https://github.com/Anu192006/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Anu192006/Leetcode-Problems/tree/master/2235-add-two-integers) |
@@ -176,6 +177,7 @@
 | [1550-three-consecutive-odds](https://github.com/Anu192006/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
