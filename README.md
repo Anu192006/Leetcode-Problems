@@ -64,6 +64,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anu192006/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Anu192006/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Anu192006/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
@@ -121,6 +123,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Anu192006/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 ## Counting
 |  |
@@ -131,6 +134,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Array
 |  |
