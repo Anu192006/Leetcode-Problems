@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anu192006/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Array
 |  |
@@ -182,6 +184,7 @@
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2293-min-max-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/2293-min-max-game) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anu192006/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
