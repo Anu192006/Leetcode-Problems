@@ -49,6 +49,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Anu192006/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Anu192006/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/3099-harshad-number) |
 ## Bit Manipulation
