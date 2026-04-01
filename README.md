@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anu192006/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Anu192006/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [2498-frog-jump-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -205,6 +206,7 @@
 | [2293-min-max-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Anu192006/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anu192006/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2498-frog-jump-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -258,6 +260,7 @@
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2498-frog-jump-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 ## Matrix
 |  |
 | ------- |
