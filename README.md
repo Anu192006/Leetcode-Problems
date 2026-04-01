@@ -130,6 +130,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Anu192006/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1528-shuffle-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -181,6 +182,7 @@
 | [1470-shuffle-the-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anu192006/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Anu192006/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
