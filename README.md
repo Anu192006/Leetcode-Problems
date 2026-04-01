@@ -132,6 +132,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/Anu192006/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -187,6 +188,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2293-min-max-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anu192006/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -294,6 +296,7 @@
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2293-min-max-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
