@@ -180,6 +180,7 @@
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Anu192006/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Anu192006/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anu192006/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Anu192006/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Anu192006/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Anu192006/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Anu192006/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Database
@@ -310,6 +312,7 @@
 | [0412-fizz-buzz](https://github.com/Anu192006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Anu192006/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Anu192006/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
