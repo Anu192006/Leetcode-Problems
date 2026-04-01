@@ -102,6 +102,7 @@
 | [0169-majority-element](https://github.com/Anu192006/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +177,7 @@
 | [0189-rotate-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Anu192006/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anu192006/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -376,6 +378,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anu192006/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
