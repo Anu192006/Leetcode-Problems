@@ -47,6 +47,7 @@
 | [0812-largest-triangle-area](https://github.com/Anu192006/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Anu192006/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anu192006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2498-frog-jump-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2498-frog-jump-ii) |
 ## Matrix
