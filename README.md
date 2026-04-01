@@ -56,6 +56,7 @@
 | [2235-add-two-integers](https://github.com/Anu192006/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Anu192006/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Anu192006/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
@@ -255,6 +256,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anu192006/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
