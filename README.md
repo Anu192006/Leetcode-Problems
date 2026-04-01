@@ -356,4 +356,12 @@
 | [0643-maximum-average-subarray-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anu192006/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Anu192006/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Anu192006/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
