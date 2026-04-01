@@ -48,6 +48,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Anu192006/Leetcode-Problems/tree/master/2235-add-two-integers) |
@@ -194,6 +195,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anu192006/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anu192006/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anu192006/Leetcode-Problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2293-min-max-game](https://github.com/Anu192006/Leetcode-Problems/tree/master/2293-min-max-game) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Anu192006/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
