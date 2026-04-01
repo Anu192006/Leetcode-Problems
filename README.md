@@ -49,6 +49,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anu192006/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anu192006/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Anu192006/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -108,6 +109,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Anu192006/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Anu192006/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Anu192006/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anu192006/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -153,6 +155,7 @@
 | [0383-ransom-note](https://github.com/Anu192006/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anu192006/Leetcode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/Anu192006/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Anu192006/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anu192006/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Anu192006/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -193,6 +196,7 @@
 | [1470-shuffle-the-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anu192006/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anu192006/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/Anu192006/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Anu192006/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Anu192006/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
