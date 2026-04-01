@@ -50,6 +50,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Anu192006/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Anu192006/Leetcode-Problems/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Anu192006/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Anu192006/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anu192006/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Anu192006/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
@@ -317,6 +318,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Anu192006/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anu192006/Leetcode-Problems/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Anu192006/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
